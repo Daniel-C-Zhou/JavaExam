@@ -18,3 +18,5 @@ target/
 
 # Locally installed node
 node/
+
+*.iml
